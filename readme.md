@@ -1,1 +1,1 @@
-Um portifolio quer estou desenvolendo
+Um portifolio que estou desenvolendo
